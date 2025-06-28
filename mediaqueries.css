@@ -104,26 +104,26 @@
 /* For screens up to 1400px */
 @media screen and (max-width: 1400px) {
   #profile .section__pic-container {
-    max-width: 400px; /* Maximum width for larger screens */
-    width: 90%; /* Adjusts to 90% of the parent container */
-    height: auto; /* Maintain aspect ratio */
+    max-width: 400px; 
+    width: 90%; 
+    height: auto;
   }
 }
 
 /* For screens up to 1200px */
 @media screen and (max-width: 1200px) {
   #profile .section__pic-container {
-    max-width: 300px; /* Reduce size for tablets */
-    width: 90%; /* Adjusts to 90% of the parent container */
-    height: auto; /* Maintain aspect ratio */
+    max-width: 300px; 
+    width: 90%; 
+    height: auto; 
   }
 }
 
 /* For screens up to 600px (mobile devices) */
 @media screen and (max-width: 600px) {
   #profile .section__pic-container {
-    max-width: 200px; /* Further reduce size for mobile devices */
-    width: 90%; /* Adjusts to 90% of the parent container */
-    height: auto; /* Maintain aspect ratio */
+    max-width: 200px; 
+    width: 90%; 
+    height: auto; 
   }
 }
